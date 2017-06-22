@@ -1,0 +1,13 @@
+require('angular');
+require('angular-animate');
+require('angular-aria');
+require('angular-messages');
+require('angular-resource');
+require('angular-sanitize');
+require('angular-toastr');
+require('angular-ui-bootstrap');
+require('angular-ui-router');
+require('bootstrap');
+require('jquery');
+require('malarkey');
+require('moment');
